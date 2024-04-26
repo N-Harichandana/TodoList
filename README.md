@@ -18,7 +18,7 @@ The Todo List app is a simple Flutter application that helps users keep track of
 ```sh
       flutter create appname-in-lowercase
 ```
-2. Replace the common files provided in  [*"todolist"*](https://github.com/Khushi-M-0521/AlzConnect/tree/main/alzconnect_app)  with those present in the created folder.
+2. Replace the common files provided in  [*"TodoList"*](https://github.com/N-Harichandana/TodoList/tree/main)  with those present in the created folder.
 3. Add the dependencies:
 ```sh
       flutter pub get
