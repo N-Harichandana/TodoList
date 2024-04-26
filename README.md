@@ -49,3 +49,7 @@ Contributions to the Todo List app are welcome! To contribute, follow these step
 3. Make your changes and commit them to your branch.
 4. Push your branch to your fork.
 5. Submit a pull request to the main repository.
+
+## License
+
+[MIT](https://choosealicense.com/licenses/mit/)
